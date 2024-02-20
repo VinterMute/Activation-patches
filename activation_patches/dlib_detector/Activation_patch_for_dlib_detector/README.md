@@ -1,0 +1,1 @@
+Optimization stops as soon as a face is detected in the picture
